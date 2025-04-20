@@ -51,7 +51,7 @@ ssh -i ec2-key.pem ubuntu@<ec2-ip>
 Once inside the EC2 instance:
 
 ```bash
-git clone https://github.com/Ariobarzanes98/text-summarizer-aws-pipeline.git
+git clone https://github.com/m-nasereslami/text-summarizer-aws-pipeline.git
 cd text-summarizer-aws-pipeline
 ```
 
